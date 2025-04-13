@@ -1,0 +1,17 @@
+Spanish.txt
+s aback
+s horse
+s sun
+s cat
+d cat
+s cat
+d cat
+s cat
+i cat ***************
+s cat
+i cat gato
+s cat
+i cat elgato
+s cat
+q
+
